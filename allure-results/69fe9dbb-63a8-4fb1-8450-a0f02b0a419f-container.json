@@ -1,0 +1,1 @@
+{"uuid":"69fe9dbb-63a8-4fb1-8450-a0f02b0a419f","name":"Scenario: The user is directed to Tree Page","children":["fc4b35b0-7510-4b6b-8b22-6ebfc57d43ee"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688689472123,"stop":1688689472123}],"afters":[],"start":1688689472123,"stop":1688689472430}

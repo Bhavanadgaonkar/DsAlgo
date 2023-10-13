@@ -1,0 +1,1 @@
+{"uuid":"5e80d4a3-a064-4f0d-9b8d-83aaa721e4b2","name":"Scenario: User navigated to Introduction page","children":["987771bb-3656-4e58-861c-5f69dbe091a4"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688689432031,"stop":1688689432031}],"afters":[],"start":1688689432030,"stop":1688689432428}

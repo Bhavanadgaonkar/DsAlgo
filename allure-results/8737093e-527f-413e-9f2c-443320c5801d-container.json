@@ -1,0 +1,1 @@
+{"uuid":"8737093e-527f-413e-9f2c-443320c5801d","name":"Scenario: The user is directed to Stack Page","children":["8c1d3ac7-ddd6-4f30-8d20-cb2cecdde258"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688678513483,"stop":1688678513483}],"afters":[],"start":1688678513482,"stop":1688678513791}

@@ -1,0 +1,1 @@
+{"uuid":"27d69b7d-feb3-4dc8-a850-a84ef0cb8814","name":"Scenario: The user is logged in to DS Algo portal","children":["cf2ed4d1-ef97-4887-a5d6-8e1d407fcfd3"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688678561237,"stop":1688678561237}],"afters":[],"start":1688678561231,"stop":1688678562122}

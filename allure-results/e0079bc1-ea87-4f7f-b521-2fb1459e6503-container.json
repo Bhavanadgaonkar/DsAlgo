@@ -1,0 +1,1 @@
+{"uuid":"e0079bc1-ea87-4f7f-b521-2fb1459e6503","name":"Scenario: User clicks on Sign In","children":["1edd33cd-43ea-430f-a562-f6904c66f6de"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688689374848,"stop":1688689374848}],"afters":[],"start":1688689374847,"stop":1688689375381}

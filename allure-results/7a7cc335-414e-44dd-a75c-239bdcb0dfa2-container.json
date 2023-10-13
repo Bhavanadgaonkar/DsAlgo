@@ -1,0 +1,1 @@
+{"uuid":"7a7cc335-414e-44dd-a75c-239bdcb0dfa2","name":"Scenario: user navigated to Traversal page","children":["731beeb8-f4d9-4a67-8d74-06c3e3ca0eaa"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688694427770,"stop":1688694427770}],"afters":[],"start":1688694427770,"stop":1688694428317}
